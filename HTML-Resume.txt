@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello, World!</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+      <img src="https://mcdn.wallpapersafari.com/335/44/78/rANSix.jpg" alt="text"/>
+      <p><h1>Jaisri Sakthivel</h1> 
+       Contact No: 9791899033
+      <br>Mail ID : jaisrisakthivel@gmail.com
+      <br> Address: 1/529G,Saravanabhavan Nagar,Thairpalayam,Erode.
+      </p>
+      <P>
+        <h3> Career Objective:</h3>
+        To be in a position where I can explore my skills to the fullest potential. I consider myself a responsible and orderly person. I expect that my sincerity, hardworking and managing skills will help me put these words into action
+      <h4><u>EDUCATIONAL QUALIFICATIONS</u></h4>
+     <strong>Pursuing Bachelor of Engineering in Electronics and Instrumentation</strong> 
+      <br>Kongu Engineering College, Perundurai 
+      <br>Current CGPA - 7.91
+      <br><strong>Higher Secondary Engineering</strong>
+      <br>Erode Hindu Kalvi Nilayam Matric. Hr.sec School, Erode.
+       <br>90.5%
+      <br><strong>SSLC</strong>
+      <br>Sri Vasavi Matriculation Hr.sec School, Erode.
+      <br>91.8%
+      </P>
+      <p>
+        <h4><u>AREAS OF INTEREST</u></h4>
+          Digital Logic Circuits 
+         <br>Industrial Instrumentation 
+          <br>Transducer Engineering 
+          <h4><U> OTHER CREDENTIALS</U></h4>
+          	Won II nd prize in Literary Lens in the event of SKILLS AND THRILLS at Kongu Engineering College , Perundurai.
+           <BR>Won III rd prize in Fashion Parade in the event of ENTHUSIA 2K23 at Kongu Engineering College, Perundurai.
+          <h4><u>SKILL SETS</u></h4>
+          	LABview
+           <BR>Basics in C,Python and Java Programming
+            <BR>Slide Presentation
+          <BR>Spreedsheet
+
+
+        </p>
+      <p class="space"> <h4><u>PERSONAL INFORMATION</u></h4>
+     	NAME                  : Jaisri S
+      <br>DOB               : 26.08.2003
+    <br> FATHER'S NAME      : Sakthivel A R 
+     <br>MOTHER'S NAME      : Amutha S
+     <br>NATIONALITY        : Indian
+     <br>HOBBIES            : Reading books, Drawing, Watching movies, Cooking
+     <br>LANGUAGES KNOWN    : Native Tamil, English.
+      </p>
+      
+      
+  </body>
+</html>
