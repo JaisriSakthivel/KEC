@@ -35,7 +35,7 @@
            <BR>Won III rd prize in Fashion Parade in the event of ENTHUSIA 2K23 at Kongu Engineering College, Perundurai.
           <h4><u>SKILL SETS</u></h4>
           	LABview
-           <BR>Basics in C,Python and Java Programming
+           <BR>Basics in C and Java Programming
             <BR>Slide Presentation
           <BR>Spreedsheet
 
